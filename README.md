@@ -1,7 +1,7 @@
 # dactylonomy-android
 
 building the project - 
-
+Cancel changes
 1. Install MediaPipe on your system, see MediaPipe installation guide for details.( https://google.github.io/mediapipe/getting_started/install.html)
 2. Install Android Development SDK and Android NDK. See how to do so also in [MediaPipe installation guide].
 3. Enable developer options on your Android device.
@@ -11,5 +11,5 @@ building the project -
 7. Run solution example app in Android Studio.
 
 The app looks like - 
-
+![alt text](/app_screenshot1.jpg?raw=true)
 ![alt text](/app_screenshot.jpg?raw=true)
