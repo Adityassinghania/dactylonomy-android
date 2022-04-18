@@ -12,4 +12,4 @@ building the project -
 
 The app looks like - 
 
-![alt text](https://github.com/Adityassinghania/dactylylonomy-android/blob/main/app_screenshot.jpg?raw=true)
+![alt text](https://github.com/Adityassinghania/dactylylonomy-android/main/app_screenshot.jpg?raw=true)
